@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+#1{
+    background-color: aqua;
+}
+#2{
+    background-color: red;
+}
+#3{
+    background-color: coral;
+}
+.line{
+    width: 60px;
+    height: 10px;
+    background-color: black;
+    margin: auto
+}
+img{
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(0.9);
+}
